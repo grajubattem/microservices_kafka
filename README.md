@@ -20,3 +20,6 @@ D:\Softwares\kafka_2.11-2.4.1\bin\windows>kafka-topics.bat "D:\Softwares\kafka_2
 
 application url
 http://localhost:8080/sos/swagger-ui.html
+
+
+Use Conductor for Kafka UI tool
